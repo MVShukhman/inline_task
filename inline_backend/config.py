@@ -1,0 +1,5 @@
+GITHUB_API_URL = "https://api.github.com/legacy/repos/search/"
+REDIS_HOST = "redis"
+REDIS_PORT = "6379"
+REDIS_USER = "admin"
+REDIS_PASSWORD = "admin"
